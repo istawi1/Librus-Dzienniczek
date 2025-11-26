@@ -3,6 +3,8 @@
 Lightweight dashboard for Librus Synergia using the community `librus-api` package. Includes:
 - Backend proxy (Node/Express) for auth, grades, timetable.
 - Frontend (Vite + React + Mantine) with login, grades, timetable views.
+ - UI built with Mantine components.
+ - Uses `librus-api` by Mati365: https://github.com/Mati365/librus-api
 
 ## Quick start
 ### Backend
