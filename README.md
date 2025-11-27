@@ -1,4 +1,4 @@
-<img width="1866" height="949" alt="image" src="https://github.com/user-attachments/assets/b1a843ef-3c51-4005-aa12-816480b62a44" /># Librus Dzienniczek (React + Node)
+# Librus Dzienniczek (React + Node)
 
 Lightweight dashboard for Librus Synergia using the community `librus-api` package. Includes:
 - Backend proxy (Node/Express) for auth, grades, timetable.
