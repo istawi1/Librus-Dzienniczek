@@ -1,10 +1,15 @@
-# Librus Dzienniczek (React + Node)
+<img width="1866" height="949" alt="image" src="https://github.com/user-attachments/assets/b1a843ef-3c51-4005-aa12-816480b62a44" /># Librus Dzienniczek (React + Node)
 
 Lightweight dashboard for Librus Synergia using the community `librus-api` package. Includes:
 - Backend proxy (Node/Express) for auth, grades, timetable.
 - Frontend (Vite + React + Mantine) with login, grades, timetable views.
  - UI built with Mantine components.
  - Uses `librus-api` by Mati365: https://github.com/Mati365/librus-api
+
+## ShowCase
+<img width="1866" height="949" alt="image" src="https://github.com/user-attachments/assets/02bef317-9275-4cdc-9067-f78491c0ab81" />
+<img width="1857" height="951" alt="image" src="https://github.com/user-attachments/assets/3077ff82-21d2-4e71-99ff-13cba5e9adcc" />
+
 
 ## Quick start
 ### Backend
